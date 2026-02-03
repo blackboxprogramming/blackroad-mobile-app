@@ -1,3 +1,8 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/blackboxprogramming/blackroad-mobile-app.svg?style=social&label=Star)](https://github.com/blackboxprogramming/blackroad-mobile-app)
+[![GitHub forks](https://img.shields.io/github/forks/blackboxprogramming/blackroad-mobile-app.svg?style=social&label=Fork)](https://github.com/blackboxprogramming/blackroad-mobile-app/fork)
+
+
 # BlackRoad Mobile App 📱
 
 iOS and Android mobile app for BlackRoad - built with React Native!
